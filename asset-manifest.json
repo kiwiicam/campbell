@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/campbell/static/css/main.0de3f824.css",
-    "main.js": "/campbell/static/js/main.c5de0470.js",
+    "main.js": "/campbell/static/js/main.37c02d39.js",
     "index.html": "/campbell/index.html",
     "main.0de3f824.css.map": "/campbell/static/css/main.0de3f824.css.map",
-    "main.c5de0470.js.map": "/campbell/static/js/main.c5de0470.js.map"
+    "main.37c02d39.js.map": "/campbell/static/js/main.37c02d39.js.map"
   },
   "entrypoints": [
     "static/css/main.0de3f824.css",
-    "static/js/main.c5de0470.js"
+    "static/js/main.37c02d39.js"
   ]
 }
